@@ -4,7 +4,7 @@
 
 
 # ¿Qué?
-El objetivo de este proyecto es hacer Machine Learning. Todos los alumnos fuimos convocados a un concurso de Kaggle, en el que, a partir de unos datos ptevios sobre las caracteristicas y el precio de unos diamantes, debíamos predecir el precio de otro grupo de diamantes.
+El objetivo de este proyecto es hacer Machine Learning. Todos los alumnos fuimos convocados a un concurso de Kaggle, en el que, a partir de unos datos previos sobre las caracteristicas y el precio de unos diamantes, debíamos predecir el precio de otro grupo de diamantes.
 La competición de kaggle fue la siguiente:
 https://www.kaggle.com/c/diamonds-datamad1021-rev/overview
 
